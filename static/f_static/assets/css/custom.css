@@ -1,0 +1,15 @@
+.navbar-inverse {
+    border-radius: 0;
+    background: #202d38;
+    }
+
+#head { background:#181015 url( ../images/rst5.jpg) no-repeat; background-size: 100% 100%; width: 100%; height:520px; text-align: center; padding-top:400px; color:white; font-family:"Open sans", Helvetica, Arial; font-weight:300; }
+.btn-action, .btn-primary {
+    color: #FFEFD7;
+    background-image: -webkit-linear-gradient(top, #FF9B22 0%, #FF8C00 100%);
+    background-image: linear-gradient(to bottom, #202d38 0%, #b1000a 100%);
+}
+
+body {
+	    background-color: #dbe0e8 ;
+	   }
